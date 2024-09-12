@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 1,
+    "_periodo_id": "2020-2021",
+    "_profesor_id": "Isabel",
+    "_asignatura_id": "Algortimo y logica de programacion",
+    "_fecha_creacion": "2024-09-09",
+    "_active": true,
+    "_detalleNota": [
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "1308955937",
+          "_nombre": "Isa",
+          "_apellido": "Jimenez",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 50.0,
+        "_nota2": 20.0,
+        "_recuperacion": null,
+        "_observacion": ""
+      },
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "0944104942",
+          "_nombre": "Juan",
+          "_apellido": "Cedeno",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 50.0,
+        "_nota2": 50.0,
+        "_recuperacion": null,
+        "_observacion": ""
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "_periodo_id": "2021-2022",
+    "_profesor_id": "Snayder",
+    "_asignatura_id": "Calculo",
+    "_fecha_creacion": "2024-09-09",
+    "_active": true,
+    "_detalleNota": [
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "1308955937",
+          "_nombre": "Isa",
+          "_apellido": "Jimenez",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 20.0,
+        "_nota2": 20.0,
+        "_recuperacion": null,
+        "_observacion": ""
+      },
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "0944104942",
+          "_nombre": "Juan",
+          "_apellido": "Cedeno",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 20.0,
+        "_nota2": 10.0,
+        "_recuperacion": null,
+        "_observacion": ""
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "_periodo_id": "2023-2024",
+    "_profesor_id": "Gabriel",
+    "_asignatura_id": "Fisica",
+    "_fecha_creacion": "2024-09-09",
+    "_active": true,
+    "_detalleNota": [
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "1308955937",
+          "_nombre": "Isa",
+          "_apellido": "Jimenez",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 50.0,
+        "_nota2": 10.0,
+        "_recuperacion": 80.0,
+        "_observacion": ""
+      },
+      {
+        "_id": null,
+        "_estudiante": {
+          "_cedula": "0944104942",
+          "_nombre": "Juan",
+          "_apellido": "Cedeno",
+          "_fecha_nacimiento": ["_fecha_nacimiento"],
+          "_fecha_creacion": "2024-09-09",
+          "_active": true
+        },
+        "_nota1": 50.0,
+        "_nota2": 50.0,
+        "_recuperacion": null,
+        "_observacion": ""
+      }
+    ]
+  }
+]
